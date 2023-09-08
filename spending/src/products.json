@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 1,
+        "image": "https://images.migrosone.com/sanalmarket/product/07124238/07124238-be7324-1650x1650.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 20,
+        "image": "https://images.migrosone.com/sanalmarket/product/08010700/8010700_yan-a2f3a9-1650x1650.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 400,
+        "image": "https://floimages.mncdn.com/media/catalog/product/23-01/27/beyaz-mavi-spor-ayakkabi-1375-1674800058.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 40000,
+        "image": "https://blog.carettaoto.com.tr/app/uploads/2022/03/efsane-arabalar-lamborghini-miura.jpg"
+    }
+]
